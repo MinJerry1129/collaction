@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "204491248566",
+    "project_id": "collaction-app-ce0d1",
+    "storage_bucket": "collaction-app-ce0d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204491248566:android:6867fb50415c8ce79d6717",
+        "android_client_info": {
+          "package_name": "com.collaction.collactionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204491248566-q64t967r23upl5c94tdkcrrmcjocdb62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1u8h3sHLWgs6XqXpXX3AoEyI9w-zzKBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204491248566-q64t967r23upl5c94tdkcrrmcjocdb62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204491248566-84q18kq2kf3q5i358d98sqv75sjmh1ps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.star.collaction",
+                "app_store_id": "1504770139"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
